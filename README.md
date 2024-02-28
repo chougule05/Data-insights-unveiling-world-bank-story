@@ -10,8 +10,11 @@ Another objective is to explore the dynamics of interest rates charged by the IB
 
 
 What is IBRD?
+
 The International Bank for Reconstruction and Development (IBRD) is a specialized institution within the World Bank Group. Established in 1944, its primary aim is to provide financial and technical assistance to middle-income and creditworthy low-income countries for development projects.
 
 
 
-About Dataset: The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains historical snapshots of the Statement of Loans including the latest available snapshots. The World Bank complies with all sanctions applicable to World Bank transactions.
+About Dataset: 
+
+The International Bank for Reconstruction and Development (IBRD) loans are public and publicly guaranteed debt extended by the World Bank Group. IBRD loans are made to, or guaranteed by, countries that are members of IBRD. IBRD may also make loans to IFC. IBRD lends at market rates. Data are in U.S. dollars calculated using historical rates. This dataset contains historical snapshots of the Statement of Loans including the latest available snapshots. The World Bank complies with all sanctions applicable to World Bank transactions.
