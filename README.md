@@ -9,9 +9,17 @@ The objective of our project is to analyze regional and country-specific trends 
 Another objective is to explore the dynamics of interest rates charged by the IBRD over time and across different regions and countries.
 
 
+
+
+
+
 What is IBRD?
 
 The International Bank for Reconstruction and Development (IBRD) is a specialized institution within the World Bank Group. Established in 1944, its primary aim is to provide financial and technical assistance to middle-income and creditworthy low-income countries for development projects.
+
+
+
+
 
 
 
